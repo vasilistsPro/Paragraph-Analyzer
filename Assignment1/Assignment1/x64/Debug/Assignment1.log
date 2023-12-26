@@ -1,0 +1,4 @@
+﻿  Assignment1.cpp
+C:\Users\User\source\repos\Assignment1\Assignment1\Assignment1.cpp(27,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Assignment1\Assignment1\Assignment1.cpp(85,28): warning C4566: character represented by universal-character-name '\u2264' cannot be represented in the current code page (1253)
+  Assignment1.vcxproj -> C:\Users\User\source\repos\Assignment1\x64\Debug\Assignment1.exe

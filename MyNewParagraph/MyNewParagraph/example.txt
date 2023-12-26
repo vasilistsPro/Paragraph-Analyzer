@@ -1,0 +1,14 @@
+Sentence Count: 4
+Words in Sentence 1: 5
+Words in Sentence 2: 7
+Words in Sentence 3: 14
+Words in Sentence 4: 12
+Sorted Words in Sentence 1: This a is paragraph. sample 
+Sorted Words in Sentence 2: It contains for purposes. sentences several testing 
+Sorted Words in Sentence 3: Each and as aspects count demonstrates different of program, sentence sorting. such the word 
+Sorted Words in Sentence 4: Feel create for free modify or own testing.
+ text this to your 
+Vowels and Consonants in Sentence 1: Vowels: 8, Consonants: 14
+Vowels and Consonants in Sentence 2: Vowels: 16, Consonants: 28
+Vowels and Consonants in Sentence 3: Vowels: 26, Consonants: 51
+Vowels and Consonants in Sentence 4: Vowels: 19, Consonants: 30

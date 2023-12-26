@@ -1,0 +1,7 @@
+﻿  MainProgrammParagraph2.cpp
+  MyParagraph.cpp
+C:\Users\User\source\repos\MyNewParagraph\MyNewParagraph\MyParagraph.cpp(16,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\MyNewParagraph\MyNewParagraph\MyParagraph.cpp(65,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\MyNewParagraph\MyNewParagraph\MyParagraph.cpp(88,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyNewParagraph.vcxproj -> C:\Users\User\source\repos\MyNewParagraph\x64\Debug\MyNewParagraph.exe

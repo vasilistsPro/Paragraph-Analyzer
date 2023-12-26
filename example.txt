@@ -1,0 +1,1 @@
+This is a sample paragraph. It contains several sentences for testing purposes. Each sentence demonstrates different aspects of the program, such as word count and sorting. Feel free to modify this text or create your own for testing.
